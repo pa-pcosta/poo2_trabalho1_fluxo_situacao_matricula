@@ -37,9 +37,9 @@ public class Turma {
 
     @Override
     public String toString() {
-        return "Turma{" +
-                "id=" + id +
-                ", nome='" + nome + '\'' +
-                '}';
+        return "\n    {" +
+                "\n        id : " + id +
+                ",\n        nome : " + nome +
+                "\n    }";
     }
 }

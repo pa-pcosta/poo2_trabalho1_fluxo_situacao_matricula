@@ -89,13 +89,13 @@ public class Matricula {
 
     @Override
     public String toString() {
-        return "Matricula{" +
-                "dataMatricula=" + dataMatricula +
-                ", turma=" + turma +
-                ", status=" + status +
-                ", aluno=" + aluno +
-                ", disciplina=" + disciplina +
-                '}';
+        return "{" +
+                "\n    dataMatricula : " + dataMatricula +
+                ",\n    turma : " + turma +
+                ",\n    status :" + status +
+                ",\n    aluno : " + aluno +
+                ",\n    disciplina : " + disciplina +
+                "\n}";
     }
 
     @Override

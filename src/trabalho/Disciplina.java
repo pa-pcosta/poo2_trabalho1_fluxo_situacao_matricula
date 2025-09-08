@@ -37,9 +37,9 @@ public class Disciplina {
 
     @Override
     public String toString() {
-        return "Disciplina{" +
-                "nome='" + nome + '\'' +
-                ", cargaHoraria=" + cargaHoraria +
-                '}';
+        return "\n    {" +
+                "\n        nome : " + nome +
+                ",\n        cargaHoraria : " + cargaHoraria +
+                "\n    }";
     }
 }

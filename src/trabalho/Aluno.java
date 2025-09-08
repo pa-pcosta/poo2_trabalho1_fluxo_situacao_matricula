@@ -59,15 +59,15 @@ public class Aluno {
         if(matriculas.isEmpty()){
             System.out.println("Aluno " + nome + " não possui matriculas!");
         } else {
-            System.out.println("Matriculas do aluno " + nome + " CPF: " + cpf + "\n");
+            System.out.println("Matriculas do aluno " + nome + " | CPF: " + cpf + "\n");
             for(Matricula matricula : matriculas){
-                System.out.println(matricula.toString());
+                System.out.println(matricula.toString() + "\n");
             }
         }
     }
 
     @Override
     public String toString() {
-        return "Aluno [cpf=" + cpf + ", nome=" + nome + ", numeroDeMatriculas=" + matriculas.size() + "]";
+        return "\n    {\n        cpf : " + cpf + ",\n        nome : " + nome + ",\n        numeroDeMatriculas : " + matriculas.size() + "\n    }";
     }
 }
