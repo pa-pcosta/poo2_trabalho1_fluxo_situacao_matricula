@@ -10,4 +10,4 @@
 ```java trabalho.Main``` 
 
 # Demonstração de testes
-Veja os outputs dos testes da aplicação no [arquivo PDF no diretório raiz do projeto](<Trabalho 1 - POO II - Fluxo de situação de matrícula>).
+Veja os outputs dos testes da aplicação no [arquivo PDF no diretório raiz do projeto](Trabalho%201%20-%20POO%20II%20-%20Fluxo%20de%20situação%20de%20matrícula).
