@@ -10,4 +10,4 @@
 ```java trabalho.Main``` 
 
 # Demonstração de testes
-Veja os outputs dos testes da aplicação no [arquivo PDF no diretório raiz do projeto](Trabalho%201%20-%20POO%20II%20-%20Fluxo%20de%20situação%20de%20matrícula).
+Veja os outputs dos testes da aplicação no [arquivo PDF no diretório raiz do projeto](https://github.com/pa-pcosta/poo2_trabalho1_fluxo_situacao_matricula/blob/0e0390d3611fba65929562dafab98dd90019b0f3/Trabalho%201%20-%20POO%20II%20-%20Fluxo%20de%20situa%C3%A7%C3%A3o%20de%20matr%C3%ADcula.pdf).
