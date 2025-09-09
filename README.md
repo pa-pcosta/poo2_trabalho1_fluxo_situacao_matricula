@@ -9,5 +9,5 @@
 3 - Execute o programa principal  
 ```java trabalho.Main``` 
 
-# Referência de output em teste
-<img width="808" height="1890" alt="image" src="https://github.com/user-attachments/assets/256b8038-612f-4b28-b783-8173a6848aac" />
+# Demonstração de testes
+Veja os outputs dos testes da aplicação no [arquivo PDF no diretório raiz do projeto](./*.pdf).
